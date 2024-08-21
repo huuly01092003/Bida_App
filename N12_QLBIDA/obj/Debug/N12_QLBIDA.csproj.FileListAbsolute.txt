@@ -1,0 +1,126 @@
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe.config
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.AssemblyReference.cache
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Properties.Resources.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.GenerateResource.cache
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CoreCompileInputs.cache
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.exe
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmMain.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctBilliards.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmDangNhap.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmChuyenBan.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDoiMatKhau.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmTaiKhoan.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctBan.resources
+C:\Users\Phi\source\repos\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctDichVu.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe.config
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\bin\Debug\stdole.dll
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmBaoCaoChiTiet.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Properties.Resources.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmBaoCaoHoaDon.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmDangNhap.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmMain.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmChuyenBan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDoiMatKhau.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmTaiKhoan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctBilliards.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctBan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.uctDichVu.resources
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.GenerateResource.cache
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CopyComplete
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QLBIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe.config
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\bin\Debug\stdole.dll
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmBan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmBaoCaoChiTiet.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Properties.Resources.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmBaoCaoHoaDon.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmDangNhap.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDichVu.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmMain.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmChuyenBan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDoiMatKhau.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmTaiKhoan.resources
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.GenerateResource.cache
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CopyComplete
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QLBIDA - Copy\N12_QLBIDA\obj\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe.config
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\N12_QLBIDA.pdb
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\bin\Debug\stdole.dll
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmBan.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmBaoCaoChiTiet.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Properties.Resources.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmBaoCaoHoaDon.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.frmDangNhap.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDichVu.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmMain.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmChuyenBan.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmDoiMatKhau.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.Views.frmTaiKhoan.resources
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.GenerateResource.cache
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.csproj.CopyComplete
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.exe
+C:\Users\Phi\Desktop\N12_QL_BIDA\N12_QLBIDA\obj\Debug\N12_QLBIDA.pdb
